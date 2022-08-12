@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">Hey, I'm Nikhil
 
-### <p align="center"> &nbsp; 👨‍🎓 An Undergrad Student &nbsp; | &nbsp; Open Source Enthusiast 💚&nbsp; | &nbsp; Tech Enthusiast 👨‍💻 &nbsp;  </p>
+### <p align="center"> &nbsp; 👨‍🎓 An Undergrad Student &nbsp; | &nbsp; OpenSource Enthusiast 💚&nbsp; | &nbsp; BlockChain Enthusiast 👨‍💻 &nbsp;  </p>
 
 ##
 
@@ -21,10 +21,9 @@ while(dev.isCoding())
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=404Nikhil&label=Profile%20views&color=129e00&style=plastic" alt="404Nikhil" /> </p>
 
-
-- &nbsp; **BlockChain enthusiast** 
+###
 <br/>
-## 🛠 Tech Stack 
+ 🛠 Tech Stack 
 
 <br/>
 
@@ -36,7 +35,7 @@ while(dev.isCoding())
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+##
 <br/>
 <p align="center">Feel free reaching out to me at following platforms:</p>
 
