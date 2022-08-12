@@ -1,4 +1,4 @@
-### <p align="center"> Hey there! I'm [Nikhil](https://octoprofile.vercel.app/user?id=404Nikhil) </p>
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">Hey, I'm Nikhil
 
 ### <p align="center"> &nbsp; 👨‍🎓 An Undergrad Student &nbsp; | &nbsp; Open Source Enthusiast 💚&nbsp; | &nbsp; Tech Enthusiast 👨‍💻 &nbsp;  </p>
 
@@ -20,12 +20,9 @@ while(dev.isCoding())
 }
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=404Nikhil&label=Profile%20views&color=129e00&style=plastic" alt="404Nikhil" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
-- &nbsp; **I’m currently learning Data Structures & Algorithms**
-- &nbsp; **I'm also enthusiastic about BlockChain Technology** 
-- &nbsp; **I'm a chess and music lover** 
+- &nbsp; **BlockChain enthusiast** 
 <br/>
 ## 🛠 Tech Stack 
 
