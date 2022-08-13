@@ -7,11 +7,11 @@
 <p align="center"> &nbsp; &nbsp;<a href="https://twitter.com/404nikhil" target="blank"><img src="https://img.shields.io/twitter/follow/404nikhil?logo=twitter&style=for-the-badge" alt="404nikhil" /></a></p>
 
 ```js
-while(dev.isCoding())
-{
-  dev.listenToMusic();
-  dev.openStackOverFlow();
-  dev.explore();
+private static int updateDesktop (Image wallpaper) {
+int happiness;
+MyDesktop desktop = new MyDesktop();
+desktop.apply (wallpaper); happiness = INFINITY;
+return happiness;
 }
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=404Nikhil&label=Profile%20views&color=129e00&style=plastic" alt="404Nikhil" /> </p>
