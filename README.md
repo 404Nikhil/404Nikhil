@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">Hey, I'm Nikhil
 
-### <p align="center"> &nbsp; 👨‍🎓 An Undergrad Student &nbsp; | &nbsp; OpenSource Enthusiast 💚&nbsp; | &nbsp; BlockChain Enthusiast 👨‍💻 &nbsp;  </p>
+### <p align="center">  &nbsp; OpenSource Enthusiast 💚&nbsp; | &nbsp; BlockChain Enthusiast 👨‍💻 &nbsp;  </p>
 
 ##
 
