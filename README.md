@@ -4,7 +4,6 @@
 
 ##
 
-<p align="center"> &nbsp; &nbsp;<a href="https://twitter.com/404nikhil" target="blank"><img src="https://img.shields.io/twitter/follow/404nikhil?logo=twitter&style=for-the-badge" alt="404nikhil" /></a></p>
 
 ```js
 private static int updateDesktop (Image wallpaper) {
