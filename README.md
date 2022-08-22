@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">Hey, I'm Nikhil
+## <p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">Hey, I'm Nikhil</p>
 
 ### <p align="center">  &nbsp; OpenSource Enthusiast 💚&nbsp; | &nbsp; BlockChain Enthusiast 👨‍💻 &nbsp;  </p>
 
