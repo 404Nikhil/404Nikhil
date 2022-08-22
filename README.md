@@ -26,5 +26,18 @@ return happiness;
 </p>
 
 
+<br>
+ <h2> 📊 Github Stats </h2>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404Nikhil&langs_count=6&theme=radical&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=404Nikhil&show_icons=true&theme=radical&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=404Nikhil&theme=radical&hide_border=true" />
+          </a>
+       </p>
 
 
