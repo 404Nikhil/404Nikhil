@@ -27,7 +27,7 @@ return happiness;
       <br/>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404Nikhil&langs_count=6&theme=radical&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404Nikhil&langs_count=6&theme=radical&layout=compact&hide_border=true" alt="404Nikhil :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
