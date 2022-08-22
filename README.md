@@ -4,6 +4,7 @@
 
 ##
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="hp" /></p>
 
 ```js
 private static int updateDesktop (Image wallpaper) {
@@ -18,12 +19,7 @@ return happiness;
 
 
 <br/>
-<p align="center">Feel free reaching out to me at following platforms:</p>
 
-<p align="center"> 
-  <a href="https://twitter.com/404Nikhil"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="nicksd111@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
 
 
 <br>
@@ -40,4 +36,11 @@ return happiness;
           </a>
        </p>
 
+##
+<p align="center">Feel free reaching out to me at following platforms:</p>
+
+<p align="center"> 
+  <a href="https://twitter.com/404Nikhil"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="nicksd111@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
