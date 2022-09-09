@@ -35,6 +35,7 @@ return happiness;
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=404Nikhil&theme=radical&hide_border=true" />
           </a>
        </p>
+       [![404Nikhil's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=404Nikhil&theme=xcode)](https://git.io/404Nikhil)
 
 ##
 <p align="center">Feel free reaching out to me at following platforms:</p>
@@ -47,7 +48,7 @@ return happiness;
 
   </div>
 
- [![404Nikhil's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=404Nikhil&theme=xcode)](https://git.io/404Nikhil)
+ 
    
    
 
