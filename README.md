@@ -36,7 +36,7 @@ return happiness;
           </a>
        </p>
        
-   [![404Nikhil's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SauravMukherjee44&theme=xcode)](https://git.io/404Nikhil)
+   [![404Nikhil's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=404Nikhil&theme=xcode)](https://git.io/404Nikhil)
    
    ##
 
