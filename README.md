@@ -44,3 +44,18 @@ return happiness;
   <a href="nicksd111@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+
+<td><img src="https://github-readme-stats.vercel.app/api?username=404Nikhil&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nikhil Dhariwal" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=404Nikhil&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nikhil Dhariwal" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=404Nikhil&theme=dark" alt="NikhilDhariwal" /></p>
+  </div>
+
+ [![404Nikhil's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=404Nikhil&theme=xcode)](https://git.io/404Nikhil)
+   
+   
+
+[![GitHub followers](https://img.shields.io/github/followers/404Nikhil.svg?style=social&label=Follow)](https://github.com/404Nikhil?tab=followers)
