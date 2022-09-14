@@ -1,10 +1,10 @@
 ## <p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35">Hey, I'm Nikhil</p>
 
-### <p align="center">  &nbsp; OpenSource Enthusiast 💚&nbsp; | &nbsp; BlockChain Enthusiast 👨‍💻 &nbsp;  </p>
+### <p align="center">  &nbsp; OpenSource Enthusiast 💚&nbsp; | &nbsp; Full-Stack Enthusiast 👨‍💻 &nbsp;  </p>
 
 ##
 
-<p><img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2F7decf2e01e1f924b3cab2cfa21bb3a9b%2Ftumblr_o3o86d0VUt1vn2nvko1_500.gif&f=1&nofb=1" alt="hp" /></p>
+<p><img align="right" src="duck.gif" alt="hp" /></p>
 
 ```js
 private static int updateDesktop (Image wallpaper) {
