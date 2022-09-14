@@ -4,7 +4,7 @@
 
 ##
 
-<p><img align="right" src="duck.gif" alt="hp" /></p>
+<p><img align="right" src="starfish.gif" alt="hp" /></p>
 
 ```js
 private static int updateDesktop (Image wallpaper) {
