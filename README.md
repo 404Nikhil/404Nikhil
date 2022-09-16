@@ -1,4 +1,4 @@
-## <p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35">Hey, I'm Nikhil</p>
+## <p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35">Hey, I'm Nikhil! Great to see you here.</p>
 
 ### <p align="center">  &nbsp; OpenSource Enthusiast 💚&nbsp; | &nbsp; Full-Stack Enthusiast 👨‍💻 &nbsp;  </p>
 
@@ -16,28 +16,22 @@ return happiness;
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=404Nikhil&label=Profile%20views&color=129e00&style=plastic" alt="404Nikhil" /> </p>
 
-
-
-<br/>
-
-
-
 <br>
- <h2> 📊 Github Stats </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/404Nikhil/">
-          </a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/404Nikhil/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=404Nikhil&show_icons=true&theme=radical&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=404Nikhil&theme=radical&hide_border=true" />
-          </a>
-       </p>
-       
-   [![404Nikhil's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=404Nikhil&theme=xcode)](https://git.io/404Nikhil)
-   
+
+## 📈 Github Stats
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=404Nikhil&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=404Nikhil&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=404Nikhil&theme=tokyonight" />
+</p>
+
    ##
 
 <p align="center">Feel free reaching out to me at following platforms:</p>
