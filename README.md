@@ -18,33 +18,5 @@ return happiness;
 
 <br>
 
-## 📈 Github Stats
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=404Nikhil&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=404Nikhil&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</td>
-</tr>
-</table>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=404Nikhil&theme=tokyonight" />
-</p>
-
-   ##
-
-<p align="center">Feel free reaching out to me at following platforms:</p>
-
-<p align="center"> 
-  <a href="https://twitter.com/404Nikhil"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:nicksd111@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-
-  </div>
-
- 
-   
-   
 
