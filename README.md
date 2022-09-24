@@ -6,7 +6,7 @@
 
 <p><img align="right" src="starfish.gif" alt="hp" /></p>
 
-```js
+```ts
 private static int updateDesktop (Image wallpaper) {
 int happiness;
 MyDesktop desktop = new MyDesktop();
