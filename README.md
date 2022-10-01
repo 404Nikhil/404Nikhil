@@ -11,7 +11,7 @@
 
 </p>
 
-### <p align="center">  &nbsp; OpenSource Enthusiast 💚&nbsp; | &nbsp; Full-Stack Enthusiast 👨‍💻 &nbsp;  </p>
+### <p align="center">  &nbsp; OpenSource 💚&nbsp; | &nbsp; Full-Stack Enthusiast 👨‍💻 &nbsp;  </p>
 
 ##
 
@@ -30,7 +30,7 @@ return happiness;
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=404Nikhil&show_icons=true&theme=onedark" />  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=404Nikhil&show_icons=true&theme=onedark" />
   
-  ## <🙋‍♂️ Connect with me>
+  ## 🙋‍♂️ Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-NikhilDhariwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-dhariwal-800b64247/)](https://www.linkedin.com/in/nikhil-dhariwal-800b64247/)
 [![Gmail Badge](https://img.shields.io/badge/-nicksd111@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicksd111@gmail.com)](mailto:nicksd111@gmail.com)
