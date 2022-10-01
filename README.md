@@ -11,8 +11,6 @@
 
 </p>
 
-### <p align="center">  &nbsp; OpenSource 💚&nbsp; | &nbsp; Full-Stack Enthusiast 👨‍💻 &nbsp;  </p>
-
 ##
 
 ```ts
