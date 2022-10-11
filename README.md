@@ -33,3 +33,4 @@ return happiness;
 [![Linkedin Badge](https://img.shields.io/badge/-NikhilDhariwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-dhariwal-800b64247/)](https://www.linkedin.com/in/nikhil-dhariwal-800b64247/)
 [![Gmail Badge](https://img.shields.io/badge/-nicksd111@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicksd111@gmail.com)](mailto:nicksd111@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-404Nikhil-lightblue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/404Nikhil)](https://twitter.com/404Nikhil)
+[![Instagram Badge](https://img.shields.io/badge/-404nikhil_dhariwal-pink?style=flat-square&logo=Instagram&logoColor=purple&link=https://twitter.com/404nikhil_dhariwal)](https://instagram.com/404nikhil_dhariwal)
