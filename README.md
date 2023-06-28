@@ -26,6 +26,26 @@ return happiness;
 <p align= "center">	
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=404Nikhil&show_icons=true&theme=onedark" />
 	</p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [Npm and Vite](https://404nikhil.hashnode.dev/npm-and-vite)
+- [Parcel is a beast](https://404nikhil.hashnode.dev/parcel-is-a-beast-an-all-in-one-bundle-for-powerful-web-development)
+- [The difference between server-side rendering (SSR) and building server applications](https://404nikhil.hashnode.dev/the-difference-between-server-side-rendering-ssr-and-building-server-applications)
+<!-- BLOG-POST-LIST:END -->
+
+
+
+
+<details>
+  <summary>Github Stats</summary>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=404Nikhil&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="Nikhil" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=404Nikhil&show_icons=true&locale=en&theme=cobalt" alt="Nikhil" /></p>
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=404Nikhil" alt="Nikhil" /></a> </p>
   
   ## 🙋‍♂️ Connect with me
 
