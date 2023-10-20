@@ -1,4 +1,4 @@
-## <p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35">Hey, I'm [Nikhil Dhariwal](https://linkfree.io/404Nikhil).</p>
+## <p align="center">Hey, I'm [Nikhil Dhariwal](https://linkfree.io/404Nikhil).</p>
 
 <h3 align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
