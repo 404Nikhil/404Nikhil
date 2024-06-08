@@ -47,17 +47,19 @@ return happiness;
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=404Nikhil&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="Nikhil" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=404Nikhil&show_icons=true&locale=en&theme=cobalt" alt="Nikhil" /></p>
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/404Nikhil/404Nikhil/blob/master/shinchan.webp?raw=true');]{x0000}$}
-```
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/404Nikhil/404Nikhil/blob/master/shinchan.webp?raw=true');]{x0000}$}
-```
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/404Nikhil/404Nikhil/blob/master/shinchan.webp?raw=true');]{x0000}$}
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/404Nikhil/404Nikhil/blob/master/shinchan.webp?raw=true');]{x0000}$}
-```
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=404Nikhil" alt="Nikhil" /></a> </p>
   
+</details>
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/404Nikhil/404Nikhil/blob/master/shinchan.gif?raw=true');]{x0000}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 300px; animation: 5s linear both infinite shrink-x; background-image: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy2.gif?raw=true');]{x0000}$}
+```
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 300px; background-image: url('https://github.com/yacineMTB/yacineMTB/blob/master/marq.gif?raw=true');]{x0000}$}
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/404Nikhil/404Nikhil/blob/master/shinchan.gif?raw=true');]{x0000}$}
+```
